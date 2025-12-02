@@ -123,6 +123,7 @@ jobs:
             templates                            \
             scripts/                             \
             styles/                              \
+            assets/                              \
             packs/                               \
             languages/                           \
             lang/
