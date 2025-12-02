@@ -1,0 +1,27 @@
+{
+	"type": "Scene",
+	"folder": null,
+	"name": "1. Gravelands Survivors",
+	"color": null,
+	"sorting": "a",
+	"_id": "aMlbjXu7DNKbFn0h",
+	"description": "",
+	"sort": 0,
+	"flags": {
+		"scene-packer": {
+			"hash": "23940e037d5742e72c69a838b8a7fdbfa437414a"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "13.351",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1764703344749,
+		"modifiedTime": 1764703344749,
+		"lastModifiedBy": "NwwCO5XwERuXrIdd"
+	},
+	"_key": "!folders!aMlbjXu7DNKbFn0h"
+}

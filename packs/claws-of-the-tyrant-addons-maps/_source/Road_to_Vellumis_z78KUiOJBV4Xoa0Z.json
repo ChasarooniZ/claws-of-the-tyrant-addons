@@ -1,0 +1,324 @@
+{
+	"folder": "aMlbjXu7DNKbFn0h",
+	"name": "Road to Vellumis",
+	"navigation": false,
+	"navOrder": 0,
+	"background": {
+		"src": "modules/claws-of-the-tyrant-addons/assets/maps/VellumisMap-1300x1100-GridScale_8.webp",
+		"anchorX": 0,
+		"anchorY": 0,
+		"offsetX": 33,
+		"offsetY": 23,
+		"fit": "fill",
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0,
+		"tint": "#ffffff",
+		"alphaThreshold": 0
+	},
+	"foreground": null,
+	"foregroundElevation": null,
+	"thumb": "worlds/lastwall/assets/scenes/H1SKZq72Ia3QgsZ8-thumb.webp",
+	"width": 1300,
+	"height": 1100,
+	"padding": 0.25,
+	"initial": {
+		"x": null,
+		"y": null,
+		"scale": null
+	},
+	"backgroundColor": "#2e2d2d",
+	"grid": {
+		"type": 1,
+		"size": 64,
+		"style": "solidLines",
+		"thickness": 1,
+		"color": "#000000",
+		"alpha": 0.2,
+		"distance": 5,
+		"units": "mi"
+	},
+	"tokenVision": true,
+	"fog": {
+		"exploration": true,
+		"overlay": null,
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		}
+	},
+	"environment": {
+		"darknessLevel": 0,
+		"darknessLock": false,
+		"globalLight": {
+			"enabled": false,
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"luminosity": 0,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"cycle": true,
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"drawings": [
+		{
+			"_id": "X4zrcofmsX2r2Dou",
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 320,
+				"height": 128,
+				"radius": null,
+				"points": []
+			},
+			"x": 368,
+			"y": 1240,
+			"elevation": 0,
+			"sort": 0,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 1,
+			"fillColor": "#d6b690",
+			"fillAlpha": 1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": false,
+			"flags": {
+				"tagger": {}
+			},
+			"text": "",
+			"_key": "!scenes.drawings!z78KUiOJBV4Xoa0Z.X4zrcofmsX2r2Dou"
+		},
+		{
+			"_id": "kPpR5ejzgbdxlNHk",
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 240,
+				"height": 72,
+				"radius": null,
+				"points": []
+			},
+			"x": 680,
+			"y": 1408,
+			"elevation": 0,
+			"sort": 1,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "1sq. = 5 mi",
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": false,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_key": "!scenes.drawings!z78KUiOJBV4Xoa0Z.kPpR5ejzgbdxlNHk"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 336,
+				"height": 104,
+				"radius": null,
+				"points": []
+			},
+			"x": 648,
+			"y": 1456,
+			"elevation": 0,
+			"sort": 1,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "River = 120 mi",
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": false,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "L85KDkvyHkkwbPCK",
+			"_key": "!scenes.drawings!z78KUiOJBV4Xoa0Z.L85KDkvyHkkwbPCK"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 336,
+				"height": 104,
+				"radius": null,
+				"points": []
+			},
+			"x": 640,
+			"y": 1520,
+			"elevation": 0,
+			"sort": 1,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "Land = 60 mi",
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": false,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "DSx4XXRB7ktbBz80",
+			"_key": "!scenes.drawings!z78KUiOJBV4Xoa0Z.DSx4XXRB7ktbBz80"
+		},
+		{
+			"_id": "EZr1wnCNkTaNh99c",
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 312,
+				"height": 144,
+				"radius": null,
+				"points": []
+			},
+			"x": 376,
+			"y": 1224,
+			"elevation": 0,
+			"sort": 2,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 8,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "Credit to @Icarus for the map",
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": true,
+			"locked": false,
+			"interface": false,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_key": "!scenes.drawings!z78KUiOJBV4Xoa0Z.EZr1wnCNkTaNh99c"
+		}
+	],
+	"tokens": [],
+	"lights": [],
+	"notes": [],
+	"sounds": [],
+	"regions": [],
+	"templates": [],
+	"tiles": [],
+	"walls": [],
+	"playlist": "RUu3dC3As4xqJTP4",
+	"playlistSound": null,
+	"journal": null,
+	"journalEntryPage": null,
+	"weather": "",
+	"ownership": {
+		"default": 0,
+		"NwwCO5XwERuXrIdd": 3
+	},
+	"flags": {
+		"scene-packer": {
+			"hash": "275d3e87784ca400517c2e7d828511559da9701c",
+			"sourceId": "Scene.H1SKZq72Ia3QgsZ8"
+		},
+		"pf2e": {
+			"rulesBasedVision": null,
+			"hearingRange": null,
+			"environmentTypes": [],
+			"syncDarkness": "default"
+		},
+		"bossbar": {
+			"actors": [
+				{
+					"uuid": "Scene.H1SKZq72Ia3QgsZ8.Token.2kji5nE1fmxcmlJP.Actor.kJlM34YnTjHnFIeE",
+					"style": "default",
+					"hideName": false
+				}
+			]
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "13.351",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1764704202100,
+		"modifiedTime": 1764704202170,
+		"lastModifiedBy": "NwwCO5XwERuXrIdd"
+	},
+	"navName": "",
+	"_id": "z78KUiOJBV4Xoa0Z",
+	"active": false,
+	"sort": 300000,
+	"_key": "!scenes!z78KUiOJBV4Xoa0Z"
+}

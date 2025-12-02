@@ -1,0 +1,32 @@
+{
+	"name": "Claws of the Tyrant: Addons",
+	"img": "modules/pf2e-claws-of-the-tyrant/assets/img/vignettes/00-cover.webp",
+	"caption": "Addons for Claws of the Tyrant",
+	"description": "<p>Addons for Claws of the Tyrant</p>",
+	"sort": 0,
+	"actors": [],
+	"combats": [],
+	"items": [],
+	"journal": [],
+	"scenes": [],
+	"tables": [],
+	"macros": [],
+	"cards": [],
+	"playlists": [],
+	"folders": [],
+	"_id": "99iE1mJZeFGvADbM",
+	"folder": null,
+	"flags": {},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "13.351",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1764704745305,
+		"modifiedTime": 1764705282498,
+		"lastModifiedBy": "NwwCO5XwERuXrIdd"
+	},
+	"_key": "!adventures!99iE1mJZeFGvADbM"
+}

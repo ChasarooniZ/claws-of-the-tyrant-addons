@@ -1,0 +1,572 @@
+{
+	"folder": "aMlbjXu7DNKbFn0h",
+	"name": "2 - Work Continues",
+	"navigation": false,
+	"navOrder": 0,
+	"background": {
+		"src": "pics/Maps/Claws-of-tyrant/2_work_continues_2.webp",
+		"anchorX": 0,
+		"anchorY": 0,
+		"offsetX": 0,
+		"offsetY": 0,
+		"fit": "fill",
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0,
+		"tint": "#ffffff",
+		"alphaThreshold": 0
+	},
+	"foreground": null,
+	"foregroundElevation": null,
+	"thumb": "worlds/lastwall/assets/scenes/pGgIhQRPu0tHfUxs-thumb.webp",
+	"width": 2175,
+	"height": 1200,
+	"padding": 0.25,
+	"initial": {
+		"x": null,
+		"y": null,
+		"scale": null
+	},
+	"backgroundColor": "#121111",
+	"grid": {
+		"type": 1,
+		"size": 150,
+		"style": "solidLines",
+		"thickness": 1,
+		"color": "#000000",
+		"alpha": 0.2,
+		"distance": 5,
+		"units": "ft"
+	},
+	"tokenVision": true,
+	"fog": {
+		"exploration": true,
+		"overlay": null,
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		}
+	},
+	"environment": {
+		"darknessLevel": 1,
+		"darknessLock": false,
+		"globalLight": {
+			"enabled": false,
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"luminosity": 0,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"cycle": true,
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"drawings": [],
+	"tokens": [
+		{
+			"name": "Garaag Sunbrand",
+			"displayName": 20,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "modules/pf2e-claws-of-the-tyrant/assets/actors/tokens/garaag-sunbrand.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": [],
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-claws-of-the-tyrant/assets/actors/subjects/garaag-sunbrand.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "JlyRbGndpRfsi0X8",
+			"hidden": false,
+			"sort": 0,
+			"shape": 4,
+			"_id": "BLhSLIyMsJi3FYcf",
+			"delta": {
+				"_id": "yvhUdR8nqlnbaVJZ",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!dXgvX8G980HbbCws.BLhSLIyMsJi3FYcf.yvhUdR8nqlnbaVJZ"
+			},
+			"x": 2250,
+			"y": 900,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!dXgvX8G980HbbCws.BLhSLIyMsJi3FYcf"
+		},
+		{
+			"name": "Marko Blightender",
+			"displayName": 20,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "modules/pf2e-claws-of-the-tyrant/assets/actors/tokens/pzo14003_marko-blightender.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": [],
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-claws-of-the-tyrant/assets/actors/subjects/pzo14003_marko-blightender.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "Jixsv2JnSnmXOWf0",
+			"hidden": false,
+			"sort": 1,
+			"shape": 4,
+			"_id": "oM3f5Pt1yqP4S1yq",
+			"delta": {
+				"_id": "WxDSzWlbjvvHADHZ",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!dXgvX8G980HbbCws.oM3f5Pt1yqP4S1yq.WxDSzWlbjvvHADHZ"
+			},
+			"x": 1800,
+			"y": 1200,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!dXgvX8G980HbbCws.oM3f5Pt1yqP4S1yq"
+		}
+	],
+	"lights": [
+		{
+			"x": 2325,
+			"y": 1200,
+			"elevation": 0,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 20,
+				"color": "#ffdf3d",
+				"coloration": 1,
+				"dim": 40,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": "starlight",
+					"speed": 1,
+					"intensity": 2,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"hidden": false,
+			"flags": {},
+			"_id": "PRxGoiQsFgBFhIbl",
+			"_key": "!scenes.lights!dXgvX8G980HbbCws.PRxGoiQsFgBFhIbl"
+		}
+	],
+	"notes": [
+		{
+			"entryId": "E7pPpCO9yKvEJH9Z",
+			"pageId": "Am5yMIQIJtOmMdAp",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				}
+			},
+			"global": false,
+			"x": 1875,
+			"y": 825,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 40,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/book.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 2: Work Continues",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "09Yict5ohWUx4t79",
+			"_key": "!scenes.notes!dXgvX8G980HbbCws.09Yict5ohWUx4t79"
+		}
+	],
+	"sounds": [],
+	"regions": [],
+	"templates": [],
+	"tiles": [],
+	"walls": [
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				2775,
+				1425,
+				600,
+				1425
+			],
+			"_id": "bZrZ6YDxkqWKGufM",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!dXgvX8G980HbbCws.bZrZ6YDxkqWKGufM"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				591,
+				375,
+				2775,
+				366
+			],
+			"_id": "wznnQTZEdcodybuv",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!dXgvX8G980HbbCws.wznnQTZEdcodybuv"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				2400,
+				872,
+				2400,
+				366
+			],
+			"_id": "HtyPCGzvKk2xXGMo",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!dXgvX8G980HbbCws.HtyPCGzvKk2xXGMo"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				2400,
+				1200,
+				2400,
+				1425
+			],
+			"_id": "9RmXCB51a7cQZ6zm",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!dXgvX8G980HbbCws.9RmXCB51a7cQZ6zm"
+		},
+		{
+			"light": 30,
+			"sight": 30,
+			"sound": 20,
+			"move": 20,
+			"threshold": {
+				"light": 10,
+				"sight": 15,
+				"attenuation": true,
+				"sound": null
+			},
+			"c": [
+				2400,
+				1200,
+				2400,
+				872
+			],
+			"_id": "iFRcUBy3xvak8luq",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!dXgvX8G980HbbCws.iFRcUBy3xvak8luq"
+		}
+	],
+	"playlist": "XuFG3rMFNblDAMrC",
+	"playlistSound": null,
+	"journal": null,
+	"journalEntryPage": null,
+	"weather": "",
+	"ownership": {
+		"default": 0,
+		"NwwCO5XwERuXrIdd": 3
+	},
+	"flags": {
+		"pf2e": {
+			"rulesBasedVision": null,
+			"hearingRange": null,
+			"environmentTypes": [],
+			"syncDarkness": "default"
+		},
+		"scene-packer": {
+			"sourceId": "Scene.pGgIhQRPu0tHfUxs",
+			"hash": "652e497b3082faead575a0a2add3d21541a56365"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "13.351",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1764704197648,
+		"modifiedTime": 1764704202170,
+		"lastModifiedBy": "NwwCO5XwERuXrIdd"
+	},
+	"navName": "",
+	"_id": "dXgvX8G980HbbCws",
+	"active": false,
+	"sort": 200000,
+	"_key": "!scenes!dXgvX8G980HbbCws"
+}

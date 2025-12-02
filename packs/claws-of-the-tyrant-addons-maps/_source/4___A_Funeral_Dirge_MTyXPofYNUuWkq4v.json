@@ -1,0 +1,993 @@
+{
+	"folder": "aMlbjXu7DNKbFn0h",
+	"name": "4 - A Funeral Dirge",
+	"navigation": false,
+	"background": {
+		"src": "modules/pf2e-claws-of-the-tyrant/assets/scenes/book-1/a-catastrophe-crypts/background.webp",
+		"anchorX": 0,
+		"anchorY": 0,
+		"offsetX": 0,
+		"offsetY": 0,
+		"fit": "fill",
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0,
+		"tint": "#ffffff",
+		"alphaThreshold": 0
+	},
+	"foreground": "modules/pf2e-claws-of-the-tyrant/assets/scenes/book-1/a-catastrophe-crypts/foreground.webp",
+	"foregroundElevation": null,
+	"thumb": "worlds/lastwall/assets/scenes/EUoT4wSt7DCB4K0I-thumb.webp",
+	"width": 2400,
+	"height": 3200,
+	"padding": 0.25,
+	"initial": {
+		"x": null,
+		"y": null,
+		"scale": null
+	},
+	"backgroundColor": "#1f1f1f",
+	"grid": {
+		"type": 1,
+		"size": 200,
+		"style": "solidLines",
+		"thickness": 1,
+		"color": "#000000",
+		"alpha": 0.2,
+		"distance": 5,
+		"units": "ft"
+	},
+	"tokenVision": true,
+	"fog": {
+		"exploration": true,
+		"overlay": null,
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		}
+	},
+	"environment": {
+		"darknessLevel": 0.8,
+		"darknessLock": false,
+		"globalLight": {
+			"enabled": false,
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"luminosity": 0,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"cycle": true,
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"drawings": [],
+	"tokens": [
+		{
+			"name": "Alyzo Shardhelm",
+			"displayName": 20,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "modules/pf2e-claws-of-the-tyrant/assets/actors/tokens/pzo14003_alyzo-shardhelm.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": [],
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-claws-of-the-tyrant/assets/actors/subjects/pzo14003_alyzo-shardhelm.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "7uTAgYLqChpe4QGY",
+			"hidden": false,
+			"sort": 0,
+			"shape": 4,
+			"_id": "uqJfkOVZhwH6YPBi",
+			"delta": {
+				"_id": "C5oQctXKRfUSpryF",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!MTyXPofYNUuWkq4v.uqJfkOVZhwH6YPBi.C5oQctXKRfUSpryF"
+			},
+			"x": 2400,
+			"y": 3000,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!MTyXPofYNUuWkq4v.uqJfkOVZhwH6YPBi"
+		},
+		{
+			"name": "Bicky",
+			"displayName": 20,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "modules/pf2e-claws-of-the-tyrant/assets/actors/tokens/pzo14003_bicky.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1.6,
+				"scaleY": 1.6,
+				"rotation": 0,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": [],
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-claws-of-the-tyrant/assets/actors/subjects/pzo14003_bicky.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "WdqZls4he2bhWu9P",
+			"hidden": false,
+			"sort": 1,
+			"shape": 4,
+			"_id": "2xmaIYGppVy3AlZL",
+			"delta": {
+				"_id": "zLfwTosEssRgZ2aE",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!MTyXPofYNUuWkq4v.2xmaIYGppVy3AlZL.zLfwTosEssRgZ2aE"
+			},
+			"x": 1200,
+			"y": 2600,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!MTyXPofYNUuWkq4v.2xmaIYGppVy3AlZL"
+		},
+		{
+			"name": "Kleb",
+			"displayName": 20,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "modules/pf2e-claws-of-the-tyrant/assets/actors/tokens/pc-goblin-lutist.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": [],
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 1,
+					"texture": "modules/pf2e-claws-of-the-tyrant/assets/actors/subjects/pc-goblin-lutist.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": true
+				}
+			},
+			"actorId": "DbmRY4vAzfw2tBW5",
+			"hidden": false,
+			"sort": 2,
+			"shape": 4,
+			"_id": "nTNthVAfnspwsLT0",
+			"delta": {
+				"_id": "43rdzTMuYP0wY5AD",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!MTyXPofYNUuWkq4v.nTNthVAfnspwsLT0.43rdzTMuYP0wY5AD"
+			},
+			"x": 1400,
+			"y": 2800,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!MTyXPofYNUuWkq4v.nTNthVAfnspwsLT0"
+		},
+		{
+			"name": "Crasian Pattertap",
+			"displayName": 20,
+			"actorLink": false,
+			"width": 1,
+			"height": 1,
+			"texture": {
+				"src": "modules/pf2e-claws-of-the-tyrant/assets/actors/tokens/pzo14003_crasian-pattercap.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 2,
+				"scaleY": 2,
+				"rotation": 0,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"lockRotation": false,
+			"rotation": 0,
+			"alpha": 1,
+			"disposition": -1,
+			"displayBars": 20,
+			"bar1": {
+				"attribute": "attributes.hp"
+			},
+			"bar2": {
+				"attribute": null
+			},
+			"light": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 0,
+				"color": null,
+				"coloration": 1,
+				"dim": 0,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": null,
+					"speed": 5,
+					"intensity": 5,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"sight": {
+				"enabled": false,
+				"range": 0,
+				"angle": 360,
+				"visionMode": "basic",
+				"color": null,
+				"attenuation": 0.1,
+				"brightness": 0,
+				"saturation": 0,
+				"contrast": 0
+			},
+			"detectionModes": [],
+			"occludable": {
+				"radius": 0
+			},
+			"ring": {
+				"enabled": true,
+				"colors": {
+					"ring": null,
+					"background": null
+				},
+				"effects": 1,
+				"subject": {
+					"scale": 2,
+					"texture": "modules/pf2e-claws-of-the-tyrant/assets/actors/subjects/pzo14003_crasian-pattercap.webp"
+				}
+			},
+			"turnMarker": {
+				"mode": 1,
+				"animation": null,
+				"src": null,
+				"disposition": false
+			},
+			"movementAction": null,
+			"flags": {
+				"pf2e": {
+					"linkToActorSize": true,
+					"autoscale": false
+				}
+			},
+			"actorId": "uwYiQw8dVCUukPIT",
+			"hidden": false,
+			"sort": 3,
+			"shape": 4,
+			"_id": "cco3KMwPqCOz4DNK",
+			"delta": {
+				"_id": "hwvOPuUSLAWgXxXD",
+				"system": {},
+				"items": [],
+				"effects": [],
+				"flags": {},
+				"name": null,
+				"type": null,
+				"img": null,
+				"ownership": null,
+				"_key": "!scenes.tokens.delta!MTyXPofYNUuWkq4v.cco3KMwPqCOz4DNK.hwvOPuUSLAWgXxXD"
+			},
+			"x": 2000,
+			"y": 2400,
+			"elevation": 0,
+			"locked": false,
+			"_movementHistory": [],
+			"_regions": [],
+			"_key": "!scenes.tokens!MTyXPofYNUuWkq4v.cco3KMwPqCOz4DNK"
+		}
+	],
+	"lights": [
+		{
+			"_id": "HiTT49QV2mICPt7O",
+			"x": 1800,
+			"y": 2800,
+			"elevation": 0,
+			"rotation": 0,
+			"walls": true,
+			"vision": false,
+			"config": {
+				"negative": false,
+				"priority": 0,
+				"alpha": 0.5,
+				"angle": 360,
+				"bright": 20,
+				"color": "#ffdf3d",
+				"coloration": 1,
+				"dim": 40,
+				"attenuation": 0.5,
+				"luminosity": 0.5,
+				"saturation": 0,
+				"contrast": 0,
+				"shadows": 0,
+				"animation": {
+					"type": "starlight",
+					"speed": 1,
+					"intensity": 2,
+					"reverse": false
+				},
+				"darkness": {
+					"min": 0,
+					"max": 1
+				}
+			},
+			"hidden": false,
+			"flags": {},
+			"_key": "!scenes.lights!MTyXPofYNUuWkq4v.HiTT49QV2mICPt7O"
+		}
+	],
+	"notes": [
+		{
+			"entryId": "E7pPpCO9yKvEJH9Z",
+			"pageId": "QiFNUpTTtqx5N2Rb",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				}
+			},
+			"global": false,
+			"x": 1800,
+			"y": 2600,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 40,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/book.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 4: A Funeral Dirge",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "iUxN1MLLFwlnx6Q3",
+			"_key": "!scenes.notes!MTyXPofYNUuWkq4v.iUxN1MLLFwlnx6Q3"
+		}
+	],
+	"sounds": [],
+	"regions": [],
+	"templates": [],
+	"tiles": [
+		{
+			"texture": {
+				"src": "pics/tiles/Sarcophagus_Stone_Lid_A1_2x3.webp",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "fill",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"tint": "#ffffff",
+				"alphaThreshold": 0.75
+			},
+			"x": 1568,
+			"y": 1551,
+			"width": 450,
+			"height": 700,
+			"elevation": 0,
+			"sort": 0,
+			"occlusion": {
+				"mode": 0,
+				"alpha": 0
+			},
+			"_id": "YxlfTYUvCslFinZq",
+			"rotation": 270,
+			"alpha": 1,
+			"hidden": false,
+			"locked": false,
+			"restrictions": {
+				"light": false,
+				"weather": false
+			},
+			"video": {
+				"loop": true,
+				"autoplay": true,
+				"volume": 0
+			},
+			"flags": {},
+			"_key": "!scenes.tiles!MTyXPofYNUuWkq4v.YxlfTYUvCslFinZq"
+		}
+	],
+	"walls": [
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				600,
+				3400,
+				1600,
+				3400
+			],
+			"_id": "nNvXN6GxTFF8Dfh4",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!MTyXPofYNUuWkq4v.nNvXN6GxTFF8Dfh4"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				2000,
+				3400,
+				3000,
+				3400
+			],
+			"_id": "klQpcV6CRusWO4Rb",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!MTyXPofYNUuWkq4v.klQpcV6CRusWO4Rb"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				2600,
+				3400,
+				2600,
+				1400
+			],
+			"_id": "kdA9hqOIR3yEpH4d",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!MTyXPofYNUuWkq4v.kdA9hqOIR3yEpH4d"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				2600,
+				1400,
+				1000,
+				1400
+			],
+			"_id": "iyiiA2fI94Yl1ESl",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!MTyXPofYNUuWkq4v.iyiiA2fI94Yl1ESl"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				1000,
+				1400,
+				1000,
+				3400
+			],
+			"_id": "XnMY7FZeoiezWd1c",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!MTyXPofYNUuWkq4v.XnMY7FZeoiezWd1c"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				600,
+				800,
+				600,
+				4000
+			],
+			"_id": "mQ0gvi7Uvi8wtUem",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!MTyXPofYNUuWkq4v.mQ0gvi7Uvi8wtUem"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				600,
+				4000,
+				3000,
+				4000
+			],
+			"_id": "S5oVIcEY2O4V5AOH",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!MTyXPofYNUuWkq4v.S5oVIcEY2O4V5AOH"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				3000,
+				4000,
+				3000,
+				800
+			],
+			"_id": "ozxzzObecHmjr6aB",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!MTyXPofYNUuWkq4v.ozxzzObecHmjr6aB"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"c": [
+				3000,
+				800,
+				600,
+				800
+			],
+			"_id": "dMLo43a6R2UhRrkz",
+			"dir": 0,
+			"door": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": null,
+			"flags": {},
+			"_key": "!scenes.walls!MTyXPofYNUuWkq4v.dMLo43a6R2UhRrkz"
+		},
+		{
+			"light": 20,
+			"sight": 20,
+			"sound": 20,
+			"move": 20,
+			"door": 1,
+			"c": [
+				1600,
+				3400,
+				2000,
+				3400
+			],
+			"_id": "H9qq1Kv1Tx6vH7vd",
+			"dir": 0,
+			"ds": 0,
+			"threshold": {
+				"light": null,
+				"sight": null,
+				"sound": null,
+				"attenuation": false
+			},
+			"animation": {
+				"type": "swing",
+				"texture": "modules/pf2e-claws-of-the-tyrant/assets/scenes/book-1/a-catastrophe-crypts/door-crypt.webp",
+				"flip": false,
+				"double": true,
+				"direction": 1,
+				"duration": 750,
+				"strength": 1
+			},
+			"flags": {},
+			"doorSound": "stoneBasic",
+			"_key": "!scenes.walls!MTyXPofYNUuWkq4v.H9qq1Kv1Tx6vH7vd"
+		}
+	],
+	"playlist": "Jco0ZqsRqplGtheR",
+	"playlistSound": null,
+	"journal": null,
+	"journalEntryPage": null,
+	"weather": "",
+	"ownership": {
+		"default": 0,
+		"7XDkktpGtdBhzstr": 3,
+		"Cx9XzkChkrBe5Zvs": 3,
+		"ksmoflqf5aIOcTk3": 3,
+		"ni0DoeKnXQQ2tPN0": 3,
+		"cDMxLqMRPX63sTUW": 3,
+		"NwwCO5XwERuXrIdd": 3
+	},
+	"flags": {
+		"pf2e": {
+			"rulesBasedVision": null,
+			"hearingRange": null,
+			"environmentTypes": [],
+			"syncDarkness": "default"
+		},
+		"scene-packer": {
+			"sourceId": "Scene.EUoT4wSt7DCB4K0I",
+			"hash": "dd26c995a13e1856efc88a03eb07ce576638a9db"
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "13.351",
+		"systemId": "pf2e",
+		"systemVersion": "7.7.4",
+		"createdTime": 1764704200483,
+		"modifiedTime": 1764704202170,
+		"lastModifiedBy": "NwwCO5XwERuXrIdd"
+	},
+	"navName": "",
+	"navOrder": 0,
+	"_id": "MTyXPofYNUuWkq4v",
+	"active": false,
+	"sort": 400000,
+	"_key": "!scenes!MTyXPofYNUuWkq4v"
+}
