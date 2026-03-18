@@ -4,16 +4,828 @@
 	"caption": "Addons for Claws of the Tyrant",
 	"description": "<p>Addons for Claws of the Tyrant</p>",
 	"sort": 0,
-	"actors": [],
+	"actors": [
+		{
+			"folder": "6igTA4ux1TH83egO",
+			"name": "Path to Vellumis",
+			"type": "npc",
+			"prototypeToken": {
+				"flags": {
+					"pf2e": {
+						"linkToActorSize": true,
+						"autoscale": true
+					}
+				},
+				"height": 1,
+				"width": 1,
+				"name": "Path to Vellumis",
+				"displayName": 20,
+				"actorLink": false,
+				"texture": {
+					"src": "systems/pf2e/icons/default-icons/npc.svg",
+					"anchorX": 0.5,
+					"anchorY": 0.5,
+					"offsetX": 0,
+					"offsetY": 0,
+					"fit": "contain",
+					"scaleX": 1,
+					"scaleY": 1,
+					"rotation": 0,
+					"tint": "#ffffff",
+					"alphaThreshold": 0.75
+				},
+				"lockRotation": true,
+				"rotation": 0,
+				"alpha": 1,
+				"disposition": -1,
+				"displayBars": 20,
+				"bar1": {
+					"attribute": "attributes.hp"
+				},
+				"bar2": {
+					"attribute": null
+				},
+				"light": {
+					"negative": false,
+					"priority": 0,
+					"alpha": 0.5,
+					"angle": 360,
+					"bright": 0,
+					"color": null,
+					"coloration": 1,
+					"dim": 0,
+					"attenuation": 0.5,
+					"luminosity": 0.5,
+					"saturation": 0,
+					"contrast": 0,
+					"shadows": 0,
+					"animation": {
+						"type": null,
+						"speed": 5,
+						"intensity": 5,
+						"reverse": false
+					},
+					"darkness": {
+						"min": 0,
+						"max": 1
+					}
+				},
+				"sight": {
+					"enabled": false,
+					"range": 0,
+					"angle": 360,
+					"visionMode": "basic",
+					"color": null,
+					"attenuation": 0.1,
+					"brightness": 0,
+					"saturation": 0,
+					"contrast": 0
+				},
+				"detectionModes": [],
+				"occludable": {
+					"radius": 0
+				},
+				"ring": {
+					"enabled": false,
+					"colors": {
+						"ring": null,
+						"background": null
+					},
+					"effects": 1,
+					"subject": {
+						"scale": 1,
+						"texture": null
+					}
+				},
+				"turnMarker": {
+					"mode": 1,
+					"animation": null,
+					"src": null,
+					"disposition": false
+				},
+				"movementAction": null,
+				"randomImg": false,
+				"appendNumber": false,
+				"prependAdjective": false
+			},
+			"effects": [],
+			"system": {
+				"attributes": {
+					"hp": {
+						"value": 240,
+						"temp": 0,
+						"max": 240,
+						"details": ""
+					},
+					"ac": {
+						"value": 10,
+						"details": ""
+					},
+					"allSaves": {
+						"value": ""
+					},
+					"speed": {
+						"value": 25,
+						"otherSpeeds": [],
+						"details": ""
+					}
+				},
+				"initiative": {
+					"statistic": "perception"
+				},
+				"details": {
+					"languages": {
+						"value": [],
+						"details": ""
+					},
+					"level": {
+						"value": 1
+					},
+					"blurb": "",
+					"publicNotes": "",
+					"privateNotes": "",
+					"publication": {
+						"title": "",
+						"authors": "",
+						"license": "OGL",
+						"remaster": false
+					}
+				},
+				"resources": {},
+				"_migration": {
+					"version": 0.955,
+					"previous": {
+						"schema": 0.953,
+						"foundry": "13.351",
+						"system": "7.11.2"
+					}
+				},
+				"abilities": {
+					"str": {
+						"mod": 0
+					},
+					"dex": {
+						"mod": 0
+					},
+					"con": {
+						"mod": 0
+					},
+					"int": {
+						"mod": 0
+					},
+					"wis": {
+						"mod": 0
+					},
+					"cha": {
+						"mod": 0
+					}
+				},
+				"perception": {
+					"details": "",
+					"mod": 0,
+					"senses": [],
+					"vision": true
+				},
+				"saves": {
+					"fortitude": {
+						"value": 0,
+						"saveDetail": ""
+					},
+					"reflex": {
+						"value": 0,
+						"saveDetail": ""
+					},
+					"will": {
+						"value": 0,
+						"saveDetail": ""
+					}
+				},
+				"skills": {},
+				"traits": {
+					"value": [],
+					"rarity": "common",
+					"size": {
+						"value": "med"
+					}
+				}
+			},
+			"_id": "kJlM34YnTjHnFIeE",
+			"img": "systems/pf2e/icons/default-icons/npc.svg",
+			"items": [],
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "32bee865b7c9744a342f75dce774326a8708d220",
+					"sourceId": "Actor.kJlM34YnTjHnFIeE"
+				},
+				"core": {
+					"sheetClass": "pf2e.SimpleNPCSheet"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.351",
+				"systemId": "pf2e",
+				"systemVersion": "7.11.2",
+				"createdTime": 1764694961527,
+				"modifiedTime": 1773806960386,
+				"lastModifiedBy": "NwwCO5XwERuXrIdd"
+			},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
 	"combats": [],
-	"items": [],
-	"journal": [],
+	"items": [
+		{
+			"folder": "quXIXR0kJwuO5wog",
+			"name": "Effect: Lung Bonus",
+			"type": "effect",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.955,
+					"previous": {
+						"schema": 0.953,
+						"foundry": "13.351",
+						"system": "7.11.2"
+					}
+				},
+				"description": {
+					"value": "<p>For the next minute, each PC gains a +2 status bonus to their attacks and DCs, as well as 10 temporary Hit Points that last for 1 minute. These benefits are in addition to the Bloodstone's other properties.</p>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [
+					{
+						"key": "FlatModifier",
+						"selector": [
+							"all"
+						],
+						"value": 2,
+						"type": "status"
+					},
+					{
+						"key": "TempHP",
+						"value": 10
+					}
+				],
+				"slug": null,
+				"traits": {
+					"otherTags": [],
+					"value": []
+				},
+				"level": {
+					"value": 1
+				},
+				"duration": {
+					"value": 1,
+					"unit": "minutes",
+					"expiry": "turn-start",
+					"sustained": false
+				},
+				"tokenIcon": {
+					"show": true
+				},
+				"unidentified": false,
+				"start": {
+					"value": 0,
+					"initiative": null
+				},
+				"badge": null,
+				"fromSpell": false,
+				"context": null
+			},
+			"_id": "wcEtjOQT5ppBfH6v",
+			"img": "icons/magic/life/heart-glowing-red.webp",
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "c6e820d8814ded21d0210bd254a33bef9f0f4604",
+					"sourceId": "Item.wcEtjOQT5ppBfH6v"
+				}
+			},
+			"_stats": {
+				"compendiumSource": "Item.wcEtjOQT5ppBfH6v",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.351",
+				"systemId": "pf2e",
+				"systemVersion": "7.11.2",
+				"createdTime": 1765142871891,
+				"modifiedTime": 1773806951848,
+				"lastModifiedBy": "NwwCO5XwERuXrIdd"
+			},
+			"ownership": {
+				"default": 0
+			}
+		},
+		{
+			"name": "Evade the Undead",
+			"type": "action",
+			"effects": [],
+			"system": {
+				"_migration": {
+					"version": 0.955,
+					"previous": {
+						"schema": 0.953,
+						"foundry": "13.351",
+						"system": "7.11.2"
+					}
+				},
+				"description": {
+					"value": "<section class=\"skill\"><p>While exploring the ruins of Yua's Hope, you move from one location to another while evading the undead that roam the town. Attempt a @Check[type:stealth|dc:10|traits:action:sneak,secret,action:evade-the-undead] check to @UUID[Compendium.pf2e.actionspf2e.Item.VMozDqMMuK5kpoX4]{Sneak} past the undead or a @Check[type:acrobatics|dc:13|traits:action:evade-the-undead] or @Check[type:athletics|dc:13|traits:action:evade-the-undead] to move so quickly that the undead lose track of your position. Alternatively, you can attempt a @Check[type:society|dc:15|traits:action:recall-knowledge,secret,action:evade-the-undead] check to @UUID[Compendium.pf2e.actionspf2e.Item.1OagaWtBpVXExToo]{Recall Knowledge} and plot the most efficient route to your destination.</p><ul class=\"outcomes\"><li><strong>Critical Success</strong>: You gain 1 EP.</li><li><strong>Success</strong>: You don't gain or lose EP.</li><li><strong>Failure</strong>: You lose 1 EP.</li><li><strong>Critical failure</strong>: You lose 2 EP.</li></ul></section>",
+					"gm": ""
+				},
+				"publication": {
+					"title": "",
+					"authors": "",
+					"license": "OGL",
+					"remaster": false
+				},
+				"rules": [
+					{
+						"key": "Note",
+						"outcome": [
+							"criticalSuccess"
+						],
+						"text": "You gain 1 EP.",
+						"selector": [
+							"check"
+						],
+						"predicate": [
+							"action:evade-the-undead"
+						]
+					},
+					{
+						"key": "Note",
+						"text": "You don't gain or lose EP.",
+						"selector": [
+							"check"
+						],
+						"predicate": [
+							"action:evade-the-undead"
+						],
+						"outcome": [
+							"success"
+						]
+					},
+					{
+						"key": "Note",
+						"text": "You lose 1 EP.",
+						"selector": [
+							"check"
+						],
+						"predicate": [
+							"action:evade-the-undead"
+						],
+						"outcome": [
+							"failure"
+						]
+					},
+					{
+						"key": "Note",
+						"text": "You lose 2 EP.",
+						"selector": [
+							"check"
+						],
+						"predicate": [
+							"action:evade-the-undead"
+						],
+						"outcome": [
+							"criticalFailure"
+						]
+					}
+				],
+				"slug": "evade-the-undead",
+				"traits": {
+					"otherTags": [],
+					"value": [
+						"exploration",
+						"move"
+					]
+				},
+				"actionType": {
+					"value": "action"
+				},
+				"actions": {
+					"value": 1
+				},
+				"category": null,
+				"deathNote": false
+			},
+			"_id": "o0Dy04c8xUi4fIf9",
+			"img": "systems/pf2e/icons/default-icons/action.svg",
+			"folder": "YZ8MV9hYstGi2lzn",
+			"sort": 100000,
+			"flags": {
+				"scene-packer": {
+					"sourceId": "Item.o0Dy04c8xUi4fIf9"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.351",
+				"systemId": "pf2e",
+				"systemVersion": "7.11.2",
+				"createdTime": 1759172549645,
+				"modifiedTime": 1773806951848,
+				"lastModifiedBy": "NwwCO5XwERuXrIdd"
+			},
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
+	"journal": [
+		{
+			"name": "Claws of the Tyrant: Addons",
+			"pages": [
+				{
+					"name": "Claws of the Tyrant: Addons",
+					"type": "text",
+					"text": {
+						"content": "<p class=\"bio center\">by Chasarooni</p><section class=\"description\"><p>Hi |˶˙ᵕ˙ )ﾉﾞ, this is the module author. I put this together as a collection of miscellaneous resources I found helpful, as well as any maps etc. that I made along the way so the work isn't lost, I hope you enjoy them, and enjoy this Adventure!</p></section><h3>Module Contents</h3><p>Look at the following sections for more information on what specifically is included.</p><ul><li><p>@UUID[JournalEntry.ntwh8NNYToNZNUVq.JournalEntryPage.TncFN3HfVIpIk59L]{1. Gravelands Survivors}</p></li><li><p>@UUID[JournalEntry.ntwh8NNYToNZNUVq.JournalEntryPage.B1fogQPE8sjY5Qjh]{2. Ashes for Ozem}</p></li><li><p>@UUID[JournalEntry.ntwh8NNYToNZNUVq.JournalEntryPage.kWKbOhCv7Mjxadbr]{3. Of Blood and Faith}</p></li></ul>",
+						"format": 1
+					},
+					"title": {
+						"level": 1,
+						"show": true
+					},
+					"_id": "33PzIs2xeNtEzGXd",
+					"system": {},
+					"image": {},
+					"video": {
+						"controls": true,
+						"volume": 0.5
+					},
+					"src": null,
+					"category": null,
+					"sort": 100000,
+					"flags": {},
+					"_stats": {
+						"compendiumSource": null,
+						"duplicateSource": null,
+						"exportSource": null,
+						"coreVersion": "13.351",
+						"systemId": "pf2e",
+						"systemVersion": "7.7.4",
+						"lastModifiedBy": "NwwCO5XwERuXrIdd",
+						"modifiedTime": 1764704575214
+					},
+					"ownership": {
+						"default": -1
+					}
+				},
+				{
+					"sort": 106250,
+					"name": "1. Gravelands Survivors",
+					"type": "text",
+					"_id": "TncFN3HfVIpIk59L",
+					"system": {},
+					"title": {
+						"show": true,
+						"level": 2
+					},
+					"image": {},
+					"text": {
+						"format": 1,
+						"content": "<aside><h3>Resources</h3><p>This is a summary of the resources included in Addons for each section of the Adventure</p></aside><article class=\"blockgroup\"><section class=\"block\"><h3>@UUID[JournalEntry.E7pPpCO9yKvEJH9Z.JournalEntryPage.LUrawCr6IwG4hg95]{Preparing for Farewell}</h3><p>Added some maps to help illustrate the scenes for the early events</p><ul><li><p>@UUID[Compendium.claws-of-the-tyrant-addons.claws-of-the-tyrant-addons-maps.Scene.s1IrAOohrVxXuAzA]{Event 1: Unknown Epitaph}</p></li><li><p>@UUID[Compendium.claws-of-the-tyrant-addons.claws-of-the-tyrant-addons-maps.Scene.dXgvX8G980HbbCws]{Event 2: Work Continues}</p></li><li><p>@UUID[Compendium.claws-of-the-tyrant-addons.claws-of-the-tyrant-addons-maps.Scene.bwNLCb6FTHJAnbKT]{Event 3: Preparing the Body}</p></li><li><p>@UUID[Compendium.claws-of-the-tyrant-addons.claws-of-the-tyrant-addons-maps.Scene.MTyXPofYNUuWkq4v]{Event 4: A Funeral Dirge}</p></li></ul></section><section class=\"block\"><h3>@UUID[JournalEntry.E7pPpCO9yKvEJH9Z.JournalEntryPage.Yk6QotH2TPPC2e4Z]{Yua's Hope}</h3><p>Included the @UUID[Item.o0Dy04c8xUi4fIf9]{Evade the Undead} exploration action to simplify having players roll for it while exploring Yua's Hope.</p><p>Also a @UUID[JournalEntry.ntwh8NNYToNZNUVq.JournalEntryPage.IQG2zLulF99TdI4F]{Map of Yua's Hope} to serve as a guide for the players (based on their memories of the town and its layout)</p></section><section class=\"block\"><h3>@UUID[JournalEntry.q09cHXJPCUX6TluO.JournalEntryPage.DeALWKnwYbayA4Ag]{The March to Vellumis}</h3><p>Thanks to the lovely, <em><strong>@Icarus</strong></em>, included a map to illustrate the route to Vellumis.</p><ul><li><p>@UUID[Compendium.claws-of-the-tyrant-addons.claws-of-the-tyrant-addons-maps.Scene.z78KUiOJBV4Xoa0Z]{Road to Vellumis}</p></li></ul><p>Additionally here is the image with and without the paths</p><aside class=\"flex50 left\"><img width=\"256\" src=\"modules/claws-of-the-tyrant-addons/assets/maps/VellumisMap-1300x1100-GridScale_8.webp\" /><h3>With Paths</h3></aside><aside class=\"flex50 right\"><img width=\"256\" src=\"modules/claws-of-the-tyrant-addons/assets/maps/VellumisMap-1300x1100-GridScale_8-NoPaths.webp\" /><h3>No Paths</h3></aside></section></article>"
+					},
+					"video": {
+						"controls": true,
+						"volume": 0.5
+					},
+					"src": null,
+					"category": null,
+					"flags": {},
+					"_stats": {
+						"compendiumSource": null,
+						"duplicateSource": null,
+						"exportSource": null,
+						"coreVersion": "13.351",
+						"systemId": "pf2e",
+						"systemVersion": "7.7.4",
+						"lastModifiedBy": "NwwCO5XwERuXrIdd",
+						"modifiedTime": 1773809056110
+					},
+					"ownership": {
+						"default": -1
+					}
+				},
+				{
+					"sort": 109375,
+					"name": "2. Ashes for Ozem",
+					"type": "text",
+					"_id": "B1fogQPE8sjY5Qjh",
+					"system": {},
+					"title": {
+						"show": true,
+						"level": 2
+					},
+					"image": {},
+					"text": {
+						"format": 1,
+						"content": "<section class=\"milestone\n        head\"><article><p>A work in progress</p><p>I haven't gotten to this part yet</p><p>Nothing to see here</p></article></section>"
+					},
+					"video": {
+						"controls": true,
+						"volume": 0.5
+					},
+					"src": null,
+					"category": null,
+					"flags": {},
+					"_stats": {
+						"compendiumSource": "JournalEntry.kuWZJTVkxDcE2TJW.JournalEntryPage.B1fogQPE8sjY5Qjh",
+						"duplicateSource": null,
+						"exportSource": null,
+						"coreVersion": "13.351",
+						"systemId": "pf2e",
+						"systemVersion": "7.7.4",
+						"lastModifiedBy": "NwwCO5XwERuXrIdd",
+						"modifiedTime": 1764704625833
+					},
+					"ownership": {
+						"default": -1
+					}
+				},
+				{
+					"sort": 110938,
+					"name": "3. Of Blood and Faith",
+					"type": "text",
+					"_id": "kWKbOhCv7Mjxadbr",
+					"system": {},
+					"title": {
+						"show": true,
+						"level": 2
+					},
+					"image": {},
+					"text": {
+						"format": 1,
+						"content": "<section class=\"milestone\n        head\"><article><p>A work in progress</p><p>I haven't gotten to this part yet</p><p>Nothing to see here</p></article></section>"
+					},
+					"video": {
+						"controls": true,
+						"volume": 0.5
+					},
+					"src": null,
+					"category": null,
+					"flags": {},
+					"_stats": {
+						"compendiumSource": "JournalEntry.Jyx5LeTfza98t3z7.JournalEntryPage.kWKbOhCv7Mjxadbr",
+						"duplicateSource": null,
+						"exportSource": null,
+						"coreVersion": "13.351",
+						"systemId": "pf2e",
+						"systemVersion": "7.7.4",
+						"lastModifiedBy": "NwwCO5XwERuXrIdd",
+						"modifiedTime": 1764704631936
+					},
+					"ownership": {
+						"default": -1
+					}
+				},
+				{
+					"sort": 107813,
+					"name": "Yua's Hope Map",
+					"type": "image",
+					"_id": "IQG2zLulF99TdI4F",
+					"system": {},
+					"title": {
+						"show": true,
+						"level": 3
+					},
+					"image": {
+						"caption": "Map by Chasarooni (of what the survivors remember)"
+					},
+					"text": {
+						"format": 1
+					},
+					"video": {
+						"controls": true,
+						"volume": 0.5
+					},
+					"src": "modules/claws-of-the-tyrant-addons/assets/maps/Yuas_Hope_map.webp",
+					"category": null,
+					"flags": {},
+					"_stats": {
+						"compendiumSource": "JournalEntry.ntwh8NNYToNZNUVq.JournalEntryPage.IQG2zLulF99TdI4F",
+						"duplicateSource": null,
+						"exportSource": null,
+						"coreVersion": "13.351",
+						"systemId": "pf2e",
+						"systemVersion": "7.11.2",
+						"createdTime": 1773808932997,
+						"modifiedTime": 1773808991031,
+						"lastModifiedBy": "NwwCO5XwERuXrIdd"
+					},
+					"ownership": {
+						"default": -1
+					}
+				}
+			],
+			"folder": "STgnbx3CECsRxUr1",
+			"categories": [],
+			"sort": 100000,
+			"flags": {
+				"core": {
+					"sheetClass": "pf2e-claws-of-the-tyrant.ClawsJournalSheet"
+				},
+				"scene-packer": {
+					"hash": "be7672f954a50dbf6ce448450d93142e2332696a",
+					"sourceId": "JournalEntry.ntwh8NNYToNZNUVq"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": "JournalEntry.dS75aFRvpgKqVfQr",
+				"exportSource": null,
+				"coreVersion": "13.351",
+				"systemId": "pf2e",
+				"systemVersion": "7.7.4",
+				"createdTime": 1764703226244,
+				"modifiedTime": 1764705564646,
+				"lastModifiedBy": "NwwCO5XwERuXrIdd"
+			},
+			"_id": "ntwh8NNYToNZNUVq",
+			"ownership": {
+				"default": 0
+			}
+		}
+	],
 	"scenes": [],
 	"tables": [],
 	"macros": [],
 	"cards": [],
 	"playlists": [],
-	"folders": [],
+	"folders": [
+		{
+			"type": "JournalEntry",
+			"folder": null,
+			"name": "Claws of the Tyrant: Addons",
+			"color": "#0c735a",
+			"sorting": "a",
+			"_id": "STgnbx3CECsRxUr1",
+			"description": "",
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "b027d78e2618cb7e327e5f1e731bb3e8ee30e062"
+				}
+			},
+			"_stats": {
+				"compendiumSource": "Folder.STgnbx3CECsRxUr1",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.351",
+				"systemId": "pf2e",
+				"systemVersion": "7.7.4",
+				"createdTime": 1764693121394,
+				"modifiedTime": 1764693121394,
+				"lastModifiedBy": "NwwCO5XwERuXrIdd"
+			}
+		},
+		{
+			"type": "JournalEntry",
+			"folder": "STgnbx3CECsRxUr1",
+			"name": "1. Gravelands Survivors",
+			"color": null,
+			"sorting": "a",
+			"_id": "sxvaIUG1whGqGfbL",
+			"description": "",
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "194ecf7696444d6c018d1fadbdcf9308c0d63659"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.351",
+				"systemId": "pf2e",
+				"systemVersion": "7.7.4",
+				"createdTime": 1764693669647,
+				"modifiedTime": 1764693669647,
+				"lastModifiedBy": "NwwCO5XwERuXrIdd"
+			}
+		},
+		{
+			"type": "Item",
+			"folder": null,
+			"name": "Claws of the Tyrant: Addons",
+			"color": "#107f63",
+			"sorting": "a",
+			"_id": "quXIXR0kJwuO5wog",
+			"description": "",
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "89cd8722843f9d9128c6f1bf4db2c895cb21b8cf"
+				}
+			},
+			"_stats": {
+				"compendiumSource": "Folder.quXIXR0kJwuO5wog",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.351",
+				"systemId": "pf2e",
+				"systemVersion": "7.7.4",
+				"createdTime": 1764692928291,
+				"modifiedTime": 1764692928291,
+				"lastModifiedBy": "NwwCO5XwERuXrIdd"
+			}
+		},
+		{
+			"type": "Item",
+			"folder": "quXIXR0kJwuO5wog",
+			"name": "1. Gravelands Survivors",
+			"color": null,
+			"sorting": "a",
+			"_id": "YZ8MV9hYstGi2lzn",
+			"description": "",
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "a47dc81df716a82b487a8c18032fffc24a60f24d"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.351",
+				"systemId": "pf2e",
+				"systemVersion": "7.7.4",
+				"createdTime": 1764692941824,
+				"modifiedTime": 1764692941824,
+				"lastModifiedBy": "NwwCO5XwERuXrIdd"
+			}
+		},
+		{
+			"type": "Actor",
+			"folder": null,
+			"name": "Claws of the Tyrant: Addons",
+			"color": "#107f63",
+			"sorting": "a",
+			"_id": "Kl6ALKPY1Z1jz6Zc",
+			"description": "",
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "f93a15cf4b146b537fbcb74e85253b56a153e455"
+				}
+			},
+			"_stats": {
+				"compendiumSource": "Folder.Kl6ALKPY1Z1jz6Zc",
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.351",
+				"systemId": "pf2e",
+				"systemVersion": "7.7.4",
+				"createdTime": 1764694927661,
+				"modifiedTime": 1764694927661,
+				"lastModifiedBy": "NwwCO5XwERuXrIdd"
+			}
+		},
+		{
+			"type": "Actor",
+			"folder": "Kl6ALKPY1Z1jz6Zc",
+			"name": "1. Gravelands Survivors",
+			"color": null,
+			"sorting": "a",
+			"_id": "6igTA4ux1TH83egO",
+			"description": "",
+			"sort": 0,
+			"flags": {
+				"scene-packer": {
+					"hash": "25482db3c9b18150bac2d93c6c9506dbf2548ff6"
+				}
+			},
+			"_stats": {
+				"compendiumSource": null,
+				"duplicateSource": null,
+				"exportSource": null,
+				"coreVersion": "13.351",
+				"systemId": "pf2e",
+				"systemVersion": "7.7.4",
+				"createdTime": 1764694942449,
+				"modifiedTime": 1764694942449,
+				"lastModifiedBy": "NwwCO5XwERuXrIdd"
+			}
+		}
+	],
 	"_id": "99iE1mJZeFGvADbM",
 	"folder": null,
 	"flags": {},
@@ -25,7 +837,7 @@
 		"systemId": "pf2e",
 		"systemVersion": "7.7.4",
 		"createdTime": 1764704745305,
-		"modifiedTime": 1764705282498,
+		"modifiedTime": 1773809224381,
 		"lastModifiedBy": "NwwCO5XwERuXrIdd"
 	},
 	"_key": "!adventures!99iE1mJZeFGvADbM"

@@ -26,3 +26,7 @@
   - Added an action for `Evade the Undead`
 - **The March to Vellumis**
   - Added maps from the lovely @Icarus
+
+# Credits
+
+- Maps were created using assets from Forgotten Adventures (www.forgotten-adventures.net)

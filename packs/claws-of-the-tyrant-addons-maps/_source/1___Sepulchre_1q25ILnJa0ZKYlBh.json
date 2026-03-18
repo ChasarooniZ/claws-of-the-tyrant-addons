@@ -1,5 +1,5 @@
 {
-	"folder": "aMlbjXu7DNKbFn0h",
+	"folder": "wmoIRSz3R308Rm7w",
 	"name": "1 - Sepulchre",
 	"navigation": false,
 	"background": {
@@ -192,7 +192,7 @@
 				"type": null,
 				"img": null,
 				"ownership": null,
-				"_key": "!scenes.tokens.delta!s1IrAOohrVxXuAzA.2aq8pjEoJ9jWVtgI.NfRnIJXNM52YAnmy"
+				"_key": "!scenes.tokens.delta!1q25ILnJa0ZKYlBh.2aq8pjEoJ9jWVtgI.NfRnIJXNM52YAnmy"
 			},
 			"x": 1600,
 			"y": 2000,
@@ -200,7 +200,7 @@
 			"locked": false,
 			"_movementHistory": [],
 			"_regions": [],
-			"_key": "!scenes.tokens!s1IrAOohrVxXuAzA.2aq8pjEoJ9jWVtgI"
+			"_key": "!scenes.tokens!1q25ILnJa0ZKYlBh.2aq8pjEoJ9jWVtgI"
 		},
 		{
 			"name": "Retsnav Brushpaw",
@@ -312,7 +312,7 @@
 				"type": null,
 				"img": null,
 				"ownership": null,
-				"_key": "!scenes.tokens.delta!s1IrAOohrVxXuAzA.WZKabMz7F41S8WYz.ayFe0zOz7O2OtQzd"
+				"_key": "!scenes.tokens.delta!1q25ILnJa0ZKYlBh.WZKabMz7F41S8WYz.ayFe0zOz7O2OtQzd"
 			},
 			"x": 2000,
 			"y": 2100,
@@ -320,7 +320,7 @@
 			"locked": false,
 			"_movementHistory": [],
 			"_regions": [],
-			"_key": "!scenes.tokens!s1IrAOohrVxXuAzA.WZKabMz7F41S8WYz"
+			"_key": "!scenes.tokens!1q25ILnJa0ZKYlBh.WZKabMz7F41S8WYz"
 		},
 		{
 			"name": "Retsnov Brushpaw",
@@ -432,7 +432,7 @@
 				"type": null,
 				"img": null,
 				"ownership": null,
-				"_key": "!scenes.tokens.delta!s1IrAOohrVxXuAzA.Gitxb69ptidRwN2L.0M2kkK0oiMKO3SJc"
+				"_key": "!scenes.tokens.delta!1q25ILnJa0ZKYlBh.Gitxb69ptidRwN2L.0M2kkK0oiMKO3SJc"
 			},
 			"x": 2200,
 			"y": 2200,
@@ -440,7 +440,7 @@
 			"locked": false,
 			"_movementHistory": [],
 			"_regions": [],
-			"_key": "!scenes.tokens!s1IrAOohrVxXuAzA.Gitxb69ptidRwN2L"
+			"_key": "!scenes.tokens!1q25ILnJa0ZKYlBh.Gitxb69ptidRwN2L"
 		}
 	],
 	"lights": [
@@ -479,7 +479,7 @@
 			"hidden": false,
 			"flags": {},
 			"_id": "gaLXpRN1CZ0L75dR",
-			"_key": "!scenes.lights!s1IrAOohrVxXuAzA.gaLXpRN1CZ0L75dR"
+			"_key": "!scenes.lights!1q25ILnJa0ZKYlBh.gaLXpRN1CZ0L75dR"
 		}
 	],
 	"notes": [
@@ -517,7 +517,7 @@
 			"textColor": "#ffffff",
 			"textAnchor": 1,
 			"_id": "eiVWLmE14uO2ndIs",
-			"_key": "!scenes.notes!s1IrAOohrVxXuAzA.eiVWLmE14uO2ndIs"
+			"_key": "!scenes.notes!1q25ILnJa0ZKYlBh.eiVWLmE14uO2ndIs"
 		}
 	],
 	"sounds": [],
@@ -526,7 +526,7 @@
 	"tiles": [
 		{
 			"texture": {
-				"src": "pics/tiles/Sarcophagus_Stone_Lid_A1_2x3.webp",
+				"src": "modules/claws-of-the-tyrant-addons/assets/tiles/Sarcophagus_Stone_Lid_A1_2x3.webp",
 				"anchorX": 0.5,
 				"anchorY": 0.5,
 				"offsetX": 0,
@@ -562,8 +562,46 @@
 				"autoplay": true,
 				"volume": 0
 			},
-			"flags": {},
-			"_key": "!scenes.tiles!s1IrAOohrVxXuAzA.YxlfTYUvCslFinZq"
+			"flags": {
+				"monks-active-tiles": {
+					"name": "",
+					"active": true,
+					"record": false,
+					"restriction": "all",
+					"controlled": "all",
+					"trigger": [
+						"enter"
+					],
+					"allowpaused": false,
+					"usealpha": false,
+					"pointer": false,
+					"vision": true,
+					"pertoken": false,
+					"minrequired": null,
+					"cooldown": null,
+					"chance": 100,
+					"fileindex": -1,
+					"actions": [],
+					"files": []
+				},
+				"tile-scroll": {
+					"enableScroll": false,
+					"scrollDirection": 0,
+					"enableRotate": false,
+					"scrollSpeed": 1,
+					"repeatx": 1,
+					"repeaty": 1,
+					"pivotx": 0.5,
+					"pivoty": 0.5,
+					"offsetx": 0,
+					"offsety": 0,
+					"parallax": 0
+				},
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_key": "!scenes.tiles!1q25ILnJa0ZKYlBh.YxlfTYUvCslFinZq"
 		}
 	],
 	"walls": [
@@ -590,7 +628,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!s1IrAOohrVxXuAzA.nNvXN6GxTFF8Dfh4"
+			"_key": "!scenes.walls!1q25ILnJa0ZKYlBh.nNvXN6GxTFF8Dfh4"
 		},
 		{
 			"light": 20,
@@ -615,7 +653,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!s1IrAOohrVxXuAzA.klQpcV6CRusWO4Rb"
+			"_key": "!scenes.walls!1q25ILnJa0ZKYlBh.klQpcV6CRusWO4Rb"
 		},
 		{
 			"light": 20,
@@ -640,7 +678,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!s1IrAOohrVxXuAzA.kdA9hqOIR3yEpH4d"
+			"_key": "!scenes.walls!1q25ILnJa0ZKYlBh.kdA9hqOIR3yEpH4d"
 		},
 		{
 			"light": 20,
@@ -665,7 +703,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!s1IrAOohrVxXuAzA.iyiiA2fI94Yl1ESl"
+			"_key": "!scenes.walls!1q25ILnJa0ZKYlBh.iyiiA2fI94Yl1ESl"
 		},
 		{
 			"light": 20,
@@ -690,7 +728,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!s1IrAOohrVxXuAzA.XnMY7FZeoiezWd1c"
+			"_key": "!scenes.walls!1q25ILnJa0ZKYlBh.XnMY7FZeoiezWd1c"
 		},
 		{
 			"light": 20,
@@ -715,7 +753,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!s1IrAOohrVxXuAzA.mQ0gvi7Uvi8wtUem"
+			"_key": "!scenes.walls!1q25ILnJa0ZKYlBh.mQ0gvi7Uvi8wtUem"
 		},
 		{
 			"light": 20,
@@ -740,7 +778,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!s1IrAOohrVxXuAzA.S5oVIcEY2O4V5AOH"
+			"_key": "!scenes.walls!1q25ILnJa0ZKYlBh.S5oVIcEY2O4V5AOH"
 		},
 		{
 			"light": 20,
@@ -765,7 +803,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!s1IrAOohrVxXuAzA.ozxzzObecHmjr6aB"
+			"_key": "!scenes.walls!1q25ILnJa0ZKYlBh.ozxzzObecHmjr6aB"
 		},
 		{
 			"light": 20,
@@ -790,7 +828,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!s1IrAOohrVxXuAzA.dMLo43a6R2UhRrkz"
+			"_key": "!scenes.walls!1q25ILnJa0ZKYlBh.dMLo43a6R2UhRrkz"
 		},
 		{
 			"light": 20,
@@ -824,7 +862,7 @@
 			},
 			"flags": {},
 			"doorSound": "stoneBasic",
-			"_key": "!scenes.walls!s1IrAOohrVxXuAzA.H9qq1Kv1Tx6vH7vd"
+			"_key": "!scenes.walls!1q25ILnJa0ZKYlBh.H9qq1Kv1Tx6vH7vd"
 		}
 	],
 	"playlist": "mmYDWXjWbwNWfnJg",
@@ -849,25 +887,24 @@
 			"syncDarkness": "default"
 		},
 		"scene-packer": {
-			"sourceId": "Scene.1q25ILnJa0ZKYlBh",
-			"hash": "d91e0b041845b39508625df5c1600db261fefe29"
+			"hash": "3f46e155e8890d1282a88a8a39a4dced80e42b11"
 		}
 	},
 	"_stats": {
-		"compendiumSource": null,
-		"duplicateSource": null,
+		"compendiumSource": "Compendium.pf2e-claws-of-the-tyrant.test.Scene.tIZ5fHhY7FA930WS",
+		"duplicateSource": "Scene.tIZ5fHhY7FA930WS",
 		"exportSource": null,
 		"coreVersion": "13.351",
 		"systemId": "pf2e",
-		"systemVersion": "7.7.4",
-		"createdTime": 1764704195027,
-		"modifiedTime": 1764704202170,
+		"systemVersion": "7.11.2",
+		"createdTime": 1773809362906,
+		"modifiedTime": 1773809362906,
 		"lastModifiedBy": "NwwCO5XwERuXrIdd"
 	},
 	"navName": "",
-	"navOrder": 0,
-	"_id": "s1IrAOohrVxXuAzA",
 	"active": false,
-	"sort": 100000,
-	"_key": "!scenes!s1IrAOohrVxXuAzA"
+	"navOrder": 0,
+	"sort": 300000,
+	"_id": "1q25ILnJa0ZKYlBh",
+	"_key": "!scenes!1q25ILnJa0ZKYlBh"
 }

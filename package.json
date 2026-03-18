@@ -20,6 +20,7 @@
     "@tailwindcss/vite": "^4.1.11",
     "@types/jquery": "^3.5.32",
     "autoprefixer": "^10.4.21",
+    "baseline-browser-mapping": "^2.10.8",
     "chalk": "^5.4.1",
     "cssnano": "^7.1.0",
     "eslint": "^9.32.0",

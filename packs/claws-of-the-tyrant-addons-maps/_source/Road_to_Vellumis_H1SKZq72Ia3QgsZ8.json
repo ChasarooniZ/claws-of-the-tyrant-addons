@@ -1,0 +1,2187 @@
+{
+	"folder": "wmoIRSz3R308Rm7w",
+	"name": "Road to Vellumis",
+	"_id": "H1SKZq72Ia3QgsZ8",
+	"active": true,
+	"navigation": true,
+	"navOrder": 0,
+	"background": {
+		"src": "modules/claws-of-the-tyrant-addons/assets/maps/VellumisMap-1300x1100-GridScale_8.webp",
+		"anchorX": 0,
+		"anchorY": 0,
+		"offsetX": 33,
+		"offsetY": 23,
+		"fit": "fill",
+		"scaleX": 1,
+		"scaleY": 1,
+		"rotation": 0,
+		"tint": "#ffffff",
+		"alphaThreshold": 0
+	},
+	"foreground": null,
+	"foregroundElevation": null,
+	"thumb": "worlds/lastwall/assets/scenes/H1SKZq72Ia3QgsZ8-thumb.webp",
+	"width": 1300,
+	"height": 1100,
+	"padding": 0.25,
+	"initial": {
+		"x": null,
+		"y": null,
+		"scale": null
+	},
+	"backgroundColor": "#2e2d2d",
+	"grid": {
+		"type": 0,
+		"size": 64,
+		"style": "solidLines",
+		"thickness": 1,
+		"color": "#000000",
+		"alpha": 0.2,
+		"distance": 5,
+		"units": "mi"
+	},
+	"tokenVision": true,
+	"fog": {
+		"exploration": true,
+		"overlay": null,
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		}
+	},
+	"environment": {
+		"darknessLevel": 0,
+		"darknessLock": false,
+		"globalLight": {
+			"enabled": false,
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"luminosity": 0,
+			"saturation": 0,
+			"contrast": 0,
+			"shadows": 0,
+			"darkness": {
+				"min": 0,
+				"max": 1
+			}
+		},
+		"cycle": true,
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"drawings": [
+		{
+			"_id": "X4zrcofmsX2r2Dou",
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 320,
+				"height": 128,
+				"radius": null,
+				"points": []
+			},
+			"x": 368,
+			"y": 1240,
+			"elevation": 0,
+			"sort": 0,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 1,
+			"fillColor": "#d6b690",
+			"fillAlpha": 1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": false,
+			"flags": {
+				"tagger": {}
+			},
+			"text": "",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.X4zrcofmsX2r2Dou"
+		},
+		{
+			"_id": "kPpR5ejzgbdxlNHk",
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 240,
+				"height": 72,
+				"radius": null,
+				"points": []
+			},
+			"x": 680,
+			"y": 1408,
+			"elevation": 0,
+			"sort": 1,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "1sq. = 5 mi",
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": false,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.kPpR5ejzgbdxlNHk"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 336,
+				"height": 104,
+				"radius": null,
+				"points": []
+			},
+			"x": 648,
+			"y": 1456,
+			"elevation": 0,
+			"sort": 1,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "River = 120 mi",
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": false,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "L85KDkvyHkkwbPCK",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.L85KDkvyHkkwbPCK"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 336,
+				"height": 104,
+				"radius": null,
+				"points": []
+			},
+			"x": 640,
+			"y": 1520,
+			"elevation": 0,
+			"sort": 1,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "Land = 60 mi",
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": false,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "DSx4XXRB7ktbBz80",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.DSx4XXRB7ktbBz80"
+		},
+		{
+			"_id": "EZr1wnCNkTaNh99c",
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 312,
+				"height": 144,
+				"radius": null,
+				"points": []
+			},
+			"x": 376,
+			"y": 1224,
+			"elevation": 0,
+			"sort": 2,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 8,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "Credit to @Icarus for the map",
+			"fontFamily": "Signika",
+			"fontSize": 48,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": true,
+			"locked": false,
+			"interface": false,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.EZr1wnCNkTaNh99c"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 768,
+			"y": 960,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "60 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "Wl5zRiHF17HINn11",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.Wl5zRiHF17HINn11"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 899.6749021361022,
+			"y": 1014.228659206213,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "70 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "0npFGr7EN7qABKHM",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.0npFGr7EN7qABKHM"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 905.9853468969366,
+			"y": 1147.7410124103667,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "80 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "BSu2npJuspHiXtNw",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.BSu2npJuspHiXtNw"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 965.944454119626,
+			"y": 1207.8480154619415,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "90 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "IWz40WfF54Qsl4Ml",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.IWz40WfF54Qsl4Ml"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1163.0111833885098,
+			"y": 1275.6787178781403,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "110 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "daxmQx4lgUncjnP4",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.daxmQx4lgUncjnP4"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1035.9706937938731,
+			"y": 1265.6036809753718,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "100 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "1sjU5vvFF0krgEXP",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.1sjU5vvFF0krgEXP"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 789.0141420144166,
+			"y": 830.0146531030634,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "50 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "Hy66Y14FiGwdg7nz",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.Hy66Y14FiGwdg7nz"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1220.7242690738585,
+			"y": 1231.8926508978066,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "120 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "qCGIhSKcC9FtH2tZ",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.qCGIhSKcC9FtH2tZ"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 705.3119780267741,
+			"y": 761.6779686679822,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "40 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "HCX0dxX2ycbui6qQ",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.HCX0dxX2ycbui6qQ"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 724.6365648020251,
+			"y": 638.7466343854798,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "30 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "MdysWMY0F1QV2nkp",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.MdysWMY0F1QV2nkp"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 642.8536374370544,
+			"y": 507.5856187194708,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "20 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "1cgUM8I6UTx6CTFt",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.1cgUM8I6UTx6CTFt"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 771.8940655793564,
+			"y": 491.23472361850315,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "10 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "vCvFRbKc1jvd8ohv",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.vCvFRbKc1jvd8ohv"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 952.6501957277952,
+			"y": 560.8682905401181,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "5 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "cBLPCpCyFKdhTWdM",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.cBLPCpCyFKdhTWdM"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 949.8007609970784,
+			"y": 650.6571223920809,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "10 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {}
+			},
+			"_id": "DVCoNzmwlKsBN2SJ",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.DVCoNzmwlKsBN2SJ"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1051.1221672432846,
+			"y": 673.191344049429,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "15 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "paieRrMHftbf3rTv",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.paieRrMHftbf3rTv"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1012.756419937444,
+			"y": 749.0490962275112,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "20 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "r4HfLIwB6ZFV966k",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.r4HfLIwB6ZFV966k"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1110.2101591154017,
+			"y": 791.7245566741419,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "25 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "jXoD5INjaJ1AGscA",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.jXoD5INjaJ1AGscA"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1059.8027401903244,
+			"y": 867.3909876067645,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "30 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "w12C4Q5S6JcYAdQG",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.w12C4Q5S6JcYAdQG"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1143.0186689803768,
+			"y": 897.9119336820816,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "35 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "7wS06I1fDIAsQRQ1",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.7wS06I1fDIAsQRQ1"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1102.4206604298847,
+			"y": 965.98242483671,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "40 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "hDsamZZuKVvCNvzi",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.hDsamZZuKVvCNvzi"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1206.5858181166943,
+			"y": 1011.7701225030082,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "45 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "WIP16a3Iix4LuwTE",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.WIP16a3Iix4LuwTE"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1177.0496789559515,
+			"y": 1079.3152394800736,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "50 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "G8CV8CJVDcTGWPGQ",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.G8CV8CJVDcTGWPGQ"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1256.0691267782545,
+			"y": 1108.6784196074789,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "55 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "8PuYjMNlLYKU72ow",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.8PuYjMNlLYKU72ow"
+		},
+		{
+			"author": "NwwCO5XwERuXrIdd",
+			"shape": {
+				"type": "r",
+				"width": 56,
+				"height": 32,
+				"radius": null,
+				"points": []
+			},
+			"x": 1190.862790232689,
+			"y": 1175.538396764915,
+			"elevation": 0,
+			"sort": 3,
+			"rotation": 0,
+			"bezierFactor": 0.5,
+			"fillType": 0,
+			"fillColor": "#ffffff",
+			"fillAlpha": 0.1,
+			"strokeWidth": 0,
+			"strokeColor": "#ffffff",
+			"strokeAlpha": 1,
+			"texture": null,
+			"text": "60 mi",
+			"fontFamily": "Modesto Condensed",
+			"fontSize": 24,
+			"textColor": "#ffffff",
+			"textAlpha": 1,
+			"hidden": false,
+			"locked": false,
+			"interface": true,
+			"flags": {
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"_id": "MKKAdM6LtO6UB4yJ",
+			"_key": "!scenes.drawings!H1SKZq72Ia3QgsZ8.MKKAdM6LtO6UB4yJ"
+		}
+	],
+	"tokens": [],
+	"lights": [],
+	"notes": [
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "ZAIhKooj9cS1VSv2",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"global": false,
+			"x": 798,
+			"y": 1005,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/skull.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 14: Horrifying Monstrosity",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "9xCPWbKSX7RCkSs6",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.9xCPWbKSX7RCkSs6"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "vI5g42uB3YZVv2v1",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 927,
+			"y": 1061,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/sword.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 15: Rotmire",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "0yaFCtjDfhrxQq5F",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.0yaFCtjDfhrxQq5F"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "qjlVVZusUjf1Tekd",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1062,
+			"y": 1313,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/bridge.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 17: Forgotten Bridge",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "i7Q6v2PteAjHo9D0",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.i7Q6v2PteAjHo9D0"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "prEIoWsbHunFg46L",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1195,
+			"y": 1321,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/eye.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 18: The Chokepoint",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "Y8aObAUz7pwJYugD",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.Y8aObAUz7pwJYugD"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "v8wT5EDrik85WE8N",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1286,
+			"y": 1226,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/temple.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 19: Safe at Last",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "AtFP7zoM6iTHJcvx",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.AtFP7zoM6iTHJcvx"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "lZYrr2npmxL6Pbfp",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 817,
+			"y": 879,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/ruins.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 13: Grove Under Siege",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "EnRoYTEmsCGbGaoE",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.EnRoYTEmsCGbGaoE"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "PgcfffdBy13csfpW",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 736,
+			"y": 810,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/house.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 12: Abandoned Cottage",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "SsvdUKDnBhUGOv9Z",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.SsvdUKDnBhUGOv9Z"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "w9FeM5QX3Av9JdDo",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 933,
+			"y": 1195,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/tower.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 11: Crusader Outpost",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "ExkzeMyMtf0IuGRM",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.ExkzeMyMtf0IuGRM"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "8teMOGLG1ukZerMj",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 750,
+			"y": 687,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/oak.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 10: Grove of Despair",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "el2BK1I0oFzTQK9z",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.el2BK1I0oFzTQK9z"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "YuvQpIdep26bWkAp",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 669,
+			"y": 557,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/hanging-sign.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 9: Way Marker",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "3fShXI6fRiYAfsBR",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.3fShXI6fRiYAfsBR"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "HRlfc3znUwYP8bbY",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 802,
+			"y": 537,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/wing.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 8: Horrors Above",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "QD60NLfVCGswYbwd",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.QD60NLfVCGswYbwd"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "Ulb5Au6ENtXVWmsN",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"global": false,
+			"x": 993,
+			"y": 1252,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/pawprint.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 16: Scouting Party",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "xH655sQxXeo6lkt8",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.xH655sQxXeo6lkt8"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "HRlfc3znUwYP8bbY",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1005,
+			"y": 606,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/wing.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 8: Horrors Above",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "qTj1ghnB3yEbVnlJ",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.qTj1ghnB3yEbVnlJ"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "YuvQpIdep26bWkAp",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 979,
+			"y": 701,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/hanging-sign.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 9: Way Marker",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "DuibHuQjWlst2mVS",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.DuibHuQjWlst2mVS"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "8teMOGLG1ukZerMj",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1098,
+			"y": 720,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/oak.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 10: Grove of Despair",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "KofK7JEmaWoacddn",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.KofK7JEmaWoacddn"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "PgcfffdBy13csfpW",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1036,
+			"y": 795,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/house.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 12: Abandoned Cottage",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "BVNCxbXHMCkGUTxt",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.BVNCxbXHMCkGUTxt"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "lZYrr2npmxL6Pbfp",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1154,
+			"y": 843,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/ruins.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 13: Grove Under Siege",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "IdTkO3BYjQID4jX4",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.IdTkO3BYjQID4jX4"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "ZAIhKooj9cS1VSv2",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"global": false,
+			"x": 1090,
+			"y": 916,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/skull.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 14: Horrifying Monstrosity",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "7seVXuN9xb0iCL57",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.7seVXuN9xb0iCL57"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "vI5g42uB3YZVv2v1",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1188,
+			"y": 942,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/sword.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 15: Rotmire",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "GwUJcD4wzGJfKZ1b",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.GwUJcD4wzGJfKZ1b"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "w9FeM5QX3Av9JdDo",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1131,
+			"y": 1012,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/tower.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 11: Crusader Outpost",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "7irB7ShVY9c4d2n8",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.7irB7ShVY9c4d2n8"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "Ulb5Au6ENtXVWmsN",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {
+					"tags": ""
+				}
+			},
+			"global": false,
+			"x": 1241,
+			"y": 1057,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/pawprint.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 16: Scouting Party",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "dCddYfG5Ay5gfi7X",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.dCddYfG5Ay5gfi7X"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "qjlVVZusUjf1Tekd",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1189,
+			"y": 1123,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/bridge.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 17: Forgotten Bridge",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "vYpOLlBcyDGyKsTD",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.vYpOLlBcyDGyKsTD"
+		},
+		{
+			"entryId": "q09cHXJPCUX6TluO",
+			"pageId": "prEIoWsbHunFg46L",
+			"flags": {
+				"notelicker": {
+					"slugLink": "",
+					"disableAutoIcon": false
+				},
+				"tagger": {}
+			},
+			"global": false,
+			"x": 1296,
+			"y": 1154,
+			"elevation": 0,
+			"sort": 0,
+			"iconSize": 32,
+			"texture": {
+				"tint": "#ffffff",
+				"src": "icons/svg/eye.svg",
+				"anchorX": 0.5,
+				"anchorY": 0.5,
+				"offsetX": 0,
+				"offsetY": 0,
+				"fit": "contain",
+				"scaleX": 1,
+				"scaleY": 1,
+				"rotation": 0,
+				"alphaThreshold": 0
+			},
+			"text": "Event 18: The Chokepoint",
+			"fontFamily": "Signika",
+			"fontSize": 32,
+			"textColor": "#ffffff",
+			"textAnchor": 1,
+			"_id": "3ZCKBOvIXjbVnTLO",
+			"_key": "!scenes.notes!H1SKZq72Ia3QgsZ8.3ZCKBOvIXjbVnTLO"
+		}
+	],
+	"sounds": [],
+	"regions": [],
+	"templates": [],
+	"tiles": [],
+	"walls": [],
+	"playlist": "RUu3dC3As4xqJTP4",
+	"playlistSound": null,
+	"journal": null,
+	"journalEntryPage": null,
+	"weather": "",
+	"sort": 0,
+	"ownership": {
+		"default": 0,
+		"NwwCO5XwERuXrIdd": 3
+	},
+	"flags": {
+		"scene-packer": {
+			"hash": "2465cb6e13dc257fd70790d32ec4f71c2fe1d812"
+		},
+		"pf2e": {
+			"rulesBasedVision": null,
+			"hearingRange": null,
+			"environmentTypes": [],
+			"syncDarkness": "enabled"
+		},
+		"bossbar": {
+			"actors": [
+				{
+					"uuid": "Scene.H1SKZq72Ia3QgsZ8.Token.2kji5nE1fmxcmlJP.Actor.kJlM34YnTjHnFIeE",
+					"style": "default",
+					"hideName": false
+				}
+			]
+		},
+		"pf2e-visioner": {
+			"partyTokenStateCache": {
+				"df73cb59-5317-5b12-8460-a1b2e3e80970": {
+					"tokenId": "dPttTelZAhajjImh",
+					"actorId": "jQvS68pvVmHR4LXv",
+					"actorSignature": "df73cb59-5317-5b12-8460-a1b2e3e80970",
+					"name": "Loote's Eidolon",
+					"savedAt": 1765098098526,
+					"visibility": {},
+					"cover": {},
+					"effects": [],
+					"observerStates": {}
+				},
+				"fe0c91e0-9655-5190-9805-4d71c578ba52": {
+					"tokenId": "1r9RvBAesno6slfW",
+					"actorId": "a0AzvpRAzQo10TZ7",
+					"actorSignature": "fe0c91e0-9655-5190-9805-4d71c578ba52",
+					"name": "Loote Lochneir",
+					"savedAt": 1765098098526,
+					"visibility": {},
+					"cover": {},
+					"effects": [],
+					"observerStates": {}
+				},
+				"5b099bde-fe65-5ca9-b56e-e27a70dfa346": {
+					"tokenId": "uT1QrAIjdnFol0kL",
+					"actorId": "bD6mFj62po9vLn6D",
+					"actorSignature": "5b099bde-fe65-5ca9-b56e-e27a70dfa346",
+					"name": "Bael",
+					"savedAt": 1773807660923,
+					"visibility": {},
+					"cover": {},
+					"effects": [],
+					"observerStates": {}
+				}
+			},
+			"disableAVS": false,
+			"hiddenIndicatorHalf": 10,
+			"dimThreshold": 0.25,
+			"deletedEntryCache": {
+				"73IMs8c8J55FRjjl": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"cZOa7wsnfTe69XRZ": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"0zKWNgtbDObovuLs": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"94BcfYiKBRYTgyoi": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"3jkPfrtRuFzSR5q7": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"LFSkNFYpglgeEENE": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"3y90gC7SrodN5wdS": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"xQJK3uCt6epca1zQ": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"pPKYqWVa5Zl0gLVw": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"bw9RKUc7x6tnr2UG": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"XD9Z6t7jYaJDTaES": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"DMZax9JxGF1PWI8t": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"S6y5wwKKWkkEzQQf": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"HLc8YNovSOTrXUWU": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"IosjOsAdYvaupuod": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"MNcrySc8NpVs0kSh": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"yjRcuym3NGg5cYn3": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				},
+				"OKvTgYPciqAXZOAK": {
+					"visibilityByObserver": {},
+					"coverByObserver": {}
+				}
+			}
+		}
+	},
+	"_stats": {
+		"compendiumSource": null,
+		"duplicateSource": null,
+		"exportSource": null,
+		"coreVersion": "13.351",
+		"systemId": "pf2e",
+		"systemVersion": "7.11.2",
+		"createdTime": 1773809362906,
+		"modifiedTime": 1773809362906,
+		"lastModifiedBy": "NwwCO5XwERuXrIdd"
+	},
+	"navName": "",
+	"_key": "!scenes!H1SKZq72Ia3QgsZ8"
+}

@@ -1,10 +1,12 @@
 {
-	"folder": "aMlbjXu7DNKbFn0h",
+	"folder": "wmoIRSz3R308Rm7w",
 	"name": "2 - Work Continues",
-	"navigation": false,
+	"_id": "pGgIhQRPu0tHfUxs",
+	"active": false,
+	"navigation": true,
 	"navOrder": 0,
 	"background": {
-		"src": "pics/Maps/Claws-of-tyrant/2_work_continues_2.webp",
+		"src": "modules/claws-of-the-tyrant-addons/assets/maps/2_work_continues_2.webp",
 		"anchorX": 0,
 		"anchorY": 0,
 		"offsetX": 0,
@@ -193,7 +195,7 @@
 				"type": null,
 				"img": null,
 				"ownership": null,
-				"_key": "!scenes.tokens.delta!dXgvX8G980HbbCws.BLhSLIyMsJi3FYcf.yvhUdR8nqlnbaVJZ"
+				"_key": "!scenes.tokens.delta!pGgIhQRPu0tHfUxs.BLhSLIyMsJi3FYcf.yvhUdR8nqlnbaVJZ"
 			},
 			"x": 2250,
 			"y": 900,
@@ -201,7 +203,7 @@
 			"locked": false,
 			"_movementHistory": [],
 			"_regions": [],
-			"_key": "!scenes.tokens!dXgvX8G980HbbCws.BLhSLIyMsJi3FYcf"
+			"_key": "!scenes.tokens!pGgIhQRPu0tHfUxs.BLhSLIyMsJi3FYcf"
 		},
 		{
 			"name": "Marko Blightender",
@@ -313,7 +315,7 @@
 				"type": null,
 				"img": null,
 				"ownership": null,
-				"_key": "!scenes.tokens.delta!dXgvX8G980HbbCws.oM3f5Pt1yqP4S1yq.WxDSzWlbjvvHADHZ"
+				"_key": "!scenes.tokens.delta!pGgIhQRPu0tHfUxs.oM3f5Pt1yqP4S1yq.WxDSzWlbjvvHADHZ"
 			},
 			"x": 1800,
 			"y": 1200,
@@ -321,7 +323,7 @@
 			"locked": false,
 			"_movementHistory": [],
 			"_regions": [],
-			"_key": "!scenes.tokens!dXgvX8G980HbbCws.oM3f5Pt1yqP4S1yq"
+			"_key": "!scenes.tokens!pGgIhQRPu0tHfUxs.oM3f5Pt1yqP4S1yq"
 		}
 	],
 	"lights": [
@@ -360,7 +362,7 @@
 			"hidden": false,
 			"flags": {},
 			"_id": "PRxGoiQsFgBFhIbl",
-			"_key": "!scenes.lights!dXgvX8G980HbbCws.PRxGoiQsFgBFhIbl"
+			"_key": "!scenes.lights!pGgIhQRPu0tHfUxs.PRxGoiQsFgBFhIbl"
 		}
 	],
 	"notes": [
@@ -398,7 +400,7 @@
 			"textColor": "#ffffff",
 			"textAnchor": 1,
 			"_id": "09Yict5ohWUx4t79",
-			"_key": "!scenes.notes!dXgvX8G980HbbCws.09Yict5ohWUx4t79"
+			"_key": "!scenes.notes!pGgIhQRPu0tHfUxs.09Yict5ohWUx4t79"
 		}
 	],
 	"sounds": [],
@@ -429,7 +431,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!dXgvX8G980HbbCws.bZrZ6YDxkqWKGufM"
+			"_key": "!scenes.walls!pGgIhQRPu0tHfUxs.bZrZ6YDxkqWKGufM"
 		},
 		{
 			"light": 20,
@@ -454,7 +456,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!dXgvX8G980HbbCws.wznnQTZEdcodybuv"
+			"_key": "!scenes.walls!pGgIhQRPu0tHfUxs.wznnQTZEdcodybuv"
 		},
 		{
 			"light": 20,
@@ -479,7 +481,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!dXgvX8G980HbbCws.HtyPCGzvKk2xXGMo"
+			"_key": "!scenes.walls!pGgIhQRPu0tHfUxs.HtyPCGzvKk2xXGMo"
 		},
 		{
 			"light": 20,
@@ -504,7 +506,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!dXgvX8G980HbbCws.9RmXCB51a7cQZ6zm"
+			"_key": "!scenes.walls!pGgIhQRPu0tHfUxs.9RmXCB51a7cQZ6zm"
 		},
 		{
 			"light": 30,
@@ -529,7 +531,7 @@
 			"ds": 0,
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!dXgvX8G980HbbCws.iFRcUBy3xvak8luq"
+			"_key": "!scenes.walls!pGgIhQRPu0tHfUxs.iFRcUBy3xvak8luq"
 		}
 	],
 	"playlist": "XuFG3rMFNblDAMrC",
@@ -537,6 +539,7 @@
 	"journal": null,
 	"journalEntryPage": null,
 	"weather": "",
+	"sort": 100000,
 	"ownership": {
 		"default": 0,
 		"NwwCO5XwERuXrIdd": 3
@@ -548,9 +551,13 @@
 			"environmentTypes": [],
 			"syncDarkness": "default"
 		},
+		"pf2e-visioner": {
+			"disableAVS": false,
+			"hiddenIndicatorHalf": 10,
+			"dimThreshold": 0.25
+		},
 		"scene-packer": {
-			"sourceId": "Scene.pGgIhQRPu0tHfUxs",
-			"hash": "652e497b3082faead575a0a2add3d21541a56365"
+			"hash": "d8283e9998950b6c48829d3ee99a5fdd98b40a25"
 		}
 	},
 	"_stats": {
@@ -559,14 +566,11 @@
 		"exportSource": null,
 		"coreVersion": "13.351",
 		"systemId": "pf2e",
-		"systemVersion": "7.7.4",
-		"createdTime": 1764704197648,
-		"modifiedTime": 1764704202170,
+		"systemVersion": "7.11.2",
+		"createdTime": 1773809362906,
+		"modifiedTime": 1773809362906,
 		"lastModifiedBy": "NwwCO5XwERuXrIdd"
 	},
 	"navName": "",
-	"_id": "dXgvX8G980HbbCws",
-	"active": false,
-	"sort": 200000,
-	"_key": "!scenes!dXgvX8G980HbbCws"
+	"_key": "!scenes!pGgIhQRPu0tHfUxs"
 }

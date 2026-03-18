@@ -1,3 +1,12 @@
+## 0.2.0
+
+- **New**
+  - Added an effect for the `Lung Stone` Bonus from the final encounter in the first chapter
+- **Updated**
+  - Fixed up the images on the maps
+  - Fixed map for the March to Vellumis
+  - Actually included the extra non map work in the module
+
 ## 0.1.0
 
 - **1. Gravelands Survivors**

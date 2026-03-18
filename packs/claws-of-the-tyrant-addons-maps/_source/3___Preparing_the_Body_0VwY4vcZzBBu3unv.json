@@ -1,10 +1,12 @@
 {
-	"folder": "aMlbjXu7DNKbFn0h",
+	"folder": "wmoIRSz3R308Rm7w",
 	"name": "3 - Preparing the Body",
+	"_id": "0VwY4vcZzBBu3unv",
+	"active": false,
 	"navigation": false,
 	"navOrder": 0,
 	"background": {
-		"src": "pics/Maps/Claws-of-tyrant/3_preparing_body_3.webp",
+		"src": "modules/claws-of-the-tyrant-addons/assets/maps/3_preparing_body_3.webp",
 		"anchorX": 0,
 		"anchorY": 0,
 		"offsetX": 0,
@@ -193,7 +195,7 @@
 				"type": null,
 				"img": null,
 				"ownership": null,
-				"_key": "!scenes.tokens.delta!bwNLCb6FTHJAnbKT.ZZrZSSzwBrEBxbi4.94wFXbl4NSitAjKm"
+				"_key": "!scenes.tokens.delta!0VwY4vcZzBBu3unv.ZZrZSSzwBrEBxbi4.94wFXbl4NSitAjKm"
 			},
 			"x": 1050,
 			"y": 600,
@@ -201,7 +203,7 @@
 			"locked": false,
 			"_movementHistory": [],
 			"_regions": [],
-			"_key": "!scenes.tokens!bwNLCb6FTHJAnbKT.ZZrZSSzwBrEBxbi4"
+			"_key": "!scenes.tokens!0VwY4vcZzBBu3unv.ZZrZSSzwBrEBxbi4"
 		},
 		{
 			"name": "Hurdauw Pulsoma",
@@ -313,7 +315,7 @@
 				"type": null,
 				"img": null,
 				"ownership": null,
-				"_key": "!scenes.tokens.delta!bwNLCb6FTHJAnbKT.iNYWrymA1HTIf3qy.Q5ADKh3wis1fHjzo"
+				"_key": "!scenes.tokens.delta!0VwY4vcZzBBu3unv.iNYWrymA1HTIf3qy.Q5ADKh3wis1fHjzo"
 			},
 			"x": 1350,
 			"y": 750,
@@ -321,7 +323,7 @@
 			"locked": false,
 			"_movementHistory": [],
 			"_regions": [],
-			"_key": "!scenes.tokens!bwNLCb6FTHJAnbKT.iNYWrymA1HTIf3qy"
+			"_key": "!scenes.tokens!0VwY4vcZzBBu3unv.iNYWrymA1HTIf3qy"
 		},
 		{
 			"name": "Jystolo Pulsoma",
@@ -433,7 +435,7 @@
 				"type": null,
 				"img": null,
 				"ownership": null,
-				"_key": "!scenes.tokens.delta!bwNLCb6FTHJAnbKT.8TzdJD9phMGbUInr.TOi2A5VO14VK6WLX"
+				"_key": "!scenes.tokens.delta!0VwY4vcZzBBu3unv.8TzdJD9phMGbUInr.TOi2A5VO14VK6WLX"
 			},
 			"x": 1050,
 			"y": 750,
@@ -441,7 +443,7 @@
 			"locked": false,
 			"_movementHistory": [],
 			"_regions": [],
-			"_key": "!scenes.tokens!bwNLCb6FTHJAnbKT.8TzdJD9phMGbUInr"
+			"_key": "!scenes.tokens!0VwY4vcZzBBu3unv.8TzdJD9phMGbUInr"
 		}
 	],
 	"lights": [
@@ -480,7 +482,7 @@
 			"hidden": false,
 			"flags": {},
 			"_id": "CVhAqZeLRA2vb5ln",
-			"_key": "!scenes.lights!bwNLCb6FTHJAnbKT.CVhAqZeLRA2vb5ln"
+			"_key": "!scenes.lights!0VwY4vcZzBBu3unv.CVhAqZeLRA2vb5ln"
 		}
 	],
 	"notes": [
@@ -518,7 +520,7 @@
 			"textColor": "#ffffff",
 			"textAnchor": 1,
 			"_id": "jbf8XX35imsGZRCt",
-			"_key": "!scenes.notes!bwNLCb6FTHJAnbKT.jbf8XX35imsGZRCt"
+			"_key": "!scenes.notes!0VwY4vcZzBBu3unv.jbf8XX35imsGZRCt"
 		}
 	],
 	"sounds": [],
@@ -549,7 +551,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!bwNLCb6FTHJAnbKT.mqXq1zVftrpQYLWU"
+			"_key": "!scenes.walls!0VwY4vcZzBBu3unv.mqXq1zVftrpQYLWU"
 		},
 		{
 			"light": 20,
@@ -574,7 +576,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!bwNLCb6FTHJAnbKT.2AzDieDNUSEBYk9M"
+			"_key": "!scenes.walls!0VwY4vcZzBBu3unv.2AzDieDNUSEBYk9M"
 		},
 		{
 			"light": 20,
@@ -599,7 +601,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!bwNLCb6FTHJAnbKT.ePHjwToCL0RxLYKy"
+			"_key": "!scenes.walls!0VwY4vcZzBBu3unv.ePHjwToCL0RxLYKy"
 		},
 		{
 			"light": 20,
@@ -624,7 +626,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!bwNLCb6FTHJAnbKT.ue66lDQsJBwkdVec"
+			"_key": "!scenes.walls!0VwY4vcZzBBu3unv.ue66lDQsJBwkdVec"
 		},
 		{
 			"light": 20,
@@ -649,7 +651,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!bwNLCb6FTHJAnbKT.vRICblUmlfn8ON2D"
+			"_key": "!scenes.walls!0VwY4vcZzBBu3unv.vRICblUmlfn8ON2D"
 		},
 		{
 			"light": 20,
@@ -674,7 +676,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!bwNLCb6FTHJAnbKT.sknJkAAfNordbtJZ"
+			"_key": "!scenes.walls!0VwY4vcZzBBu3unv.sknJkAAfNordbtJZ"
 		},
 		{
 			"light": 20,
@@ -699,7 +701,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!bwNLCb6FTHJAnbKT.1AhaR3hRaRZie7Up"
+			"_key": "!scenes.walls!0VwY4vcZzBBu3unv.1AhaR3hRaRZie7Up"
 		},
 		{
 			"light": 20,
@@ -724,7 +726,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!bwNLCb6FTHJAnbKT.2F7GmcBFJUIEwiX3"
+			"_key": "!scenes.walls!0VwY4vcZzBBu3unv.2F7GmcBFJUIEwiX3"
 		},
 		{
 			"light": 20,
@@ -749,7 +751,7 @@
 			},
 			"animation": null,
 			"flags": {},
-			"_key": "!scenes.walls!bwNLCb6FTHJAnbKT.NY8Q1RyH4Vn56isT"
+			"_key": "!scenes.walls!0VwY4vcZzBBu3unv.NY8Q1RyH4Vn56isT"
 		}
 	],
 	"playlist": "YsoQfMglSn59qIzQ",
@@ -757,6 +759,7 @@
 	"journal": null,
 	"journalEntryPage": null,
 	"weather": "",
+	"sort": 200000,
 	"ownership": {
 		"default": 0,
 		"NwwCO5XwERuXrIdd": 3
@@ -768,9 +771,13 @@
 			"environmentTypes": [],
 			"syncDarkness": "default"
 		},
+		"pf2e-visioner": {
+			"disableAVS": false,
+			"hiddenIndicatorHalf": 10,
+			"dimThreshold": 0.25
+		},
 		"scene-packer": {
-			"sourceId": "Scene.0VwY4vcZzBBu3unv",
-			"hash": "1ce8c2ff85ca86ef209dd316d071e3d7c8a6be3a"
+			"hash": "0bb4a6f57b5dc25145f4f246a815f0e3e49f5af2"
 		}
 	},
 	"_stats": {
@@ -779,14 +786,11 @@
 		"exportSource": null,
 		"coreVersion": "13.351",
 		"systemId": "pf2e",
-		"systemVersion": "7.7.4",
-		"createdTime": 1764704199393,
-		"modifiedTime": 1764704202170,
+		"systemVersion": "7.11.2",
+		"createdTime": 1773809362906,
+		"modifiedTime": 1773809362906,
 		"lastModifiedBy": "NwwCO5XwERuXrIdd"
 	},
 	"navName": "",
-	"_id": "bwNLCb6FTHJAnbKT",
-	"active": false,
-	"sort": 500000,
-	"_key": "!scenes!bwNLCb6FTHJAnbKT"
+	"_key": "!scenes!0VwY4vcZzBBu3unv"
 }
